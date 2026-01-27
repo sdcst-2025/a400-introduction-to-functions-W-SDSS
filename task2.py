@@ -10,3 +10,6 @@ plays the game
 This will be silimar to something you have already done, but in this task you 
 are breaking the code up into different sections to make each a function.
 """
+
+import title
+import game
