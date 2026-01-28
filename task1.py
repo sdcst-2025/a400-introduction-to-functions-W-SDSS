@@ -17,9 +17,9 @@ def C():
 
 w = input("Enter a letter from A to C: ")
 
-if w == A:
+if w == "A":
     A()
-if w == B:
+if w == "B":
     B()
-if w == C:
+if w == "C":
     C()
