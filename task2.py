@@ -14,7 +14,7 @@ import random
 
 def title():
   print("---Number Guessing Game!!---")
-  print("I am thinking of a number 1 to 10.")[
+  print("I am thinking of a number 1 to 10.")
   print("Try to guess it")
 
 def game():
