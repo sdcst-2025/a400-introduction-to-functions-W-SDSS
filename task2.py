@@ -15,7 +15,7 @@ import random
 def title():
   print("---Number Guessing Game!!---")
   print("I am thinking of a number 1 to 10.")
-  print("Try to guess it")
+  print("Try to guess it.")
 
 def game():
   num = random.randint(1, 11)
@@ -28,4 +28,6 @@ def game():
       print("its too high")
     else:
       print("correct!")
-      
+
+title()
+game()
